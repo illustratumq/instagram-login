@@ -1,0 +1,21 @@
+# Cache
+__pycache__/
+
+# Keys/Certs/Sessions/Storages and similar
+*.pem
+*.session
+*.rdb
+*.pkl
+
+# Environments
+.env
+*env/
+*venv/
+*ENV/
+*VENV/
+
+# IDE
+.idea/
+
+# Other
+cookies/
